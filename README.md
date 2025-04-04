@@ -33,9 +33,9 @@ What legal, technical, and techno-legal features are **still required to fortify
 
 ## 👥 Partners in Academia and Civil Society
 
-- Prof. Simon Mayer @ University of St. Gallen
-- Prof. Aurelia Tamò-Larrieux @ University of Lausanne
-- Dr. Konrad Kollnig and Prof. Gijs van Dijck @ Maastricht University
+- Prof. Simon Mayer (CS) @ University of St. Gallen
+- Prof. Aurelia Tamò-Larrieux (Law) @ University of Lausanne
+- Dr. Konrad Kollnig (CS) and Prof. Gijs van Dijck (Law) @ Maastricht University
 - Prof. Elena Simperl and Team @ Open Data Institute
 
 ## 📬 Contact
