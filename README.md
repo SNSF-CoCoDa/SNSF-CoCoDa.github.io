@@ -25,22 +25,18 @@ What legal, technical, and techno-legal features are **still required to fortify
 
 ## 🔧 Use Cases
 
-1. **Freedom of Information on Social Media**  
-   Investigating platform control mechanisms and data access limitations in social media (e.g., Instagram, X/Twitter).
+1. **Freedom of Speech on Social Media**  
+   Investigating content moderation and data access limitations in social media (e.g., Instagram, X/Twitter).
 
 2. **Privacy on App Stores**  
    Monitoring privacy practices in mobile ecosystems dominated by Google Play and Apple App Store.
 
-## 👥 Partners
+## 👥 Partners in Academia and Civil Society
 
-- University of St. Gallen (UNISG)
-- University of Lausanne (UNIL)
-- Maastricht University (UM)
-- Open Data Institute (ODI)
-
-## 📖 License
-
-The outcomes from this project will be published under an open-source license. Stay tuned.
+- Prof. Simon Mayer @ University of St. Gallen
+- Prof. Aurelia Tamò-Larrieux @ University of Lausanne
+- Dr. Konrad Kollnig and Prof. Gijs van Dijck @ Maastricht University
+- Prof. Elena Simperl and Team @ Open Data Institute
 
 ## 📬 Contact
 
