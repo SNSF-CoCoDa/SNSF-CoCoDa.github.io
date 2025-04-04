@@ -1,4 +1,4 @@
-# 🧠 CoCoDa: Concentration of Control and Data
+# CoCoDa: Concentration of Control and Data
 
 **Addressing the Root Cause of Systemic Risk Posed by Dominant Online Platforms**
 
@@ -40,10 +40,10 @@ What legal, technical, and techno-legal features are **still required to fortify
   <img src="img/odi.png" width="200" style="vertical-align: middle;"/>
 </p>
 
-- Prof. Simon Mayer (CS) @ University of St. Gallen
-- Prof. Aurelia Tamò-Larrieux (Law) @ University of Lausanne
-- Dr. Konrad Kollnig (CS) and Prof. Gijs van Dijck (Law) @ Maastricht University
-- Prof. Elena Simperl and Team @ Open Data Institute
+- Prof. Simon Mayer (CS) @ University of St. Gallen 🇨🇭
+- Prof. Aurelia Tamò-Larrieux (Law) @ University of Lausanne 🇨🇭
+- Dr. Konrad Kollnig (CS) and Prof. Gijs van Dijck (Law) @ Maastricht University 🇳🇱
+- Prof. Elena Simperl and Team @ Open Data Institute 🇬🇧
 
 ## 📬 Contact
 
