@@ -34,10 +34,10 @@ What legal, technical, and techno-legal features are **still required to fortify
 ## 👥 Partners in Academia and Civil Society
 
 <p align="center">
-  <img src="img/unisg.png" width="200"/>
-  <img src="img/unil.png" width="200"/>
-  <img src="img/um.png" width="200"/>
-  <img src="img/odi.png" width="200"/>
+  <img src="img/unisg.png" width="200" style="vertical-align: middle;"/>
+  <img src="img/unil.png" width="200" style="vertical-align: middle;"/>
+  <img src="img/um.png" width="200" style="vertical-align: middle;"/>
+  <img src="img/odi.png" width="200" style="vertical-align: middle;"/>
 </p>
 
 - Prof. Simon Mayer (CS) @ University of St. Gallen
