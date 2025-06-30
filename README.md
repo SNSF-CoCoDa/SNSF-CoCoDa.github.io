@@ -1,4 +1,4 @@
-*Moving beyond computational methods without (legal) teeth, and legal solutions that are not implementable in online platform data access*
+*Moving beyond computational methods without (legal) teeth, and legal solutions that are not implementable*
 
 The research project is motivated by the fact that online platforms increasingly play a key role in our societies. This creates **systemic risks to democracy, such as undermining freedom of information and online privacy**. These risks are, however, merely symptoms of a root cause: the high concentration of control and data (CoCoDa) with dominant online platforms.
 
