@@ -1,0 +1,72 @@
+.about-section {
+  padding: 5rem 2rem;
+  background-color: #fff;
+  color: #333;
+}
+
+.about-intro p {
+  font-size: 1.1rem;
+  line-height: 1.8;
+  margin-bottom: 1.5rem;
+  color: #444;
+}
+
+.highlight-box {
+  background-color: #f8f9fa;
+  border-left: 5px solid #007bff;
+  padding: 1.5rem;
+  margin: 2rem 0;
+  font-style: italic;
+}
+
+h3 {
+  font-size: 2rem;
+  margin: 3rem 0 1.5rem;
+  color: #2c3e50;
+  border-bottom: 2px solid #eee;
+  padding-bottom: 0.5rem;
+}
+
+.about-aim p {
+  font-size: 1.1rem;
+  line-height: 1.8;
+  margin-bottom: 1rem;
+  color: #444;
+}
+
+.about-aim ol {
+  margin-left: 2rem;
+  margin-bottom: 1.5rem;
+  color: #444;
+}
+
+.about-aim li {
+  margin-bottom: 0.5rem;
+  font-size: 1.1rem;
+  line-height: 1.6;
+}
+
+.rq-grid, .usecase-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+  gap: 2rem;
+}
+
+.rq-card, .usecase-card {
+  background-color: #f9f9f9;
+  padding: 1.5rem;
+  border-radius: 8px;
+  border: 1px solid #e1e1e1;
+  transition: transform 0.2s;
+}
+
+.rq-card:hover, .usecase-card:hover {
+  transform: translateY(-5px);
+  box-shadow: 0 5px 15px rgba(0,0,0,0.05);
+}
+
+.rq-card h4, .usecase-card h4 {
+  color: #007bff;
+  margin-bottom: 1rem;
+  font-size: 1.25rem;
+}
