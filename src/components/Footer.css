@@ -40,14 +40,21 @@
 .footer-links {
   display: flex;
   align-items: center;
-  gap: 1rem;
+  gap: 1.5rem;
 }
 
 .footer-links a {
+  display: flex;
+  align-items: center;
+  gap: 0.5rem;
   color: #ecf0f1;
   text-decoration: none;
   font-weight: 500;
   transition: color 0.2s;
+}
+
+.footer-icon {
+  font-size: 1.2em;
 }
 
 .footer-links a:hover {

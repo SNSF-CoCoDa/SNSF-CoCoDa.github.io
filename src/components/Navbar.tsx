@@ -13,6 +13,7 @@ export default function Navbar() {
         <div className={`navbar-links ${isOpen ? 'active' : ''}`}>
           <a href="#home" onClick={() => setIsOpen(false)}>Home</a>
           <a href="#about" onClick={() => setIsOpen(false)}>About</a>
+          <a href="#news" onClick={() => setIsOpen(false)}>News</a>
           <a href="#team" onClick={() => setIsOpen(false)}>Team</a>
           <a href="#contact" onClick={() => setIsOpen(false)}>Contact</a>
         </div>

@@ -1,3 +1,4 @@
+import { FaLinkedin, FaEnvelope } from 'react-icons/fa';
 import './Footer.css';
 
 export default function Footer() {
@@ -10,7 +11,12 @@ export default function Footer() {
             <h3>CoCoDa</h3>
             <p className="footer-tagline">Studying Systemic Risks on Online Platforms</p>
             <div className="footer-links">
-              <a href="mailto:info@cocoda-project.org">Contact Us</a>
+              <a href="mailto:info@cocoda-project.org">
+                <FaEnvelope className="footer-icon" /> Contact Us
+              </a>
+              <a href="https://www.linkedin.com/company/cocoda-%E2%80%93-studying-systemic-risks-on-online-platforms/" target="_blank" rel="noreferrer">
+                <FaLinkedin className="footer-icon" /> LinkedIn
+              </a>
             </div>
           </div>
 
