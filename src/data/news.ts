@@ -20,14 +20,14 @@ export const newsItems: NewsItem[] = [
     linkText: "Read the highlights"
   },
   {
-    id: 4,
+    id: 3,
     month: "October 2025",
     title: "Submitted to EU's Consultation on its new Digital Fairness Act",
     link: "https://ec.europa.eu/info/law/better-regulation/have-your-say/initiatives/14622-Digital-Fairness-Act/F33096694_en",
     linkText: "Read our response"
   },
   {
-    id: 6,
+    id: 4,
     month: "November 2025",
     title: "Launch webinar hosted by the ODI: CoCoDa Project Launch",
     link: "https://www.youtube.com/watch?v=3fmuE-JXJEE",
