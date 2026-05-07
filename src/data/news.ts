@@ -33,5 +33,12 @@ export const newsItems: NewsItem[] = [
     link: "https://www.youtube.com/watch?v=3fmuE-JXJEE",
     linkText: "Watch the webinar"
   }
+    {
+    id: 5,
+    month: "February 2026",
+    title: "CoCoDa workshop ",
+    link: "https://www.linkedin.com/posts/maastrichtunibrusselshub_last-week-we-were-happy-to-welcome-the-activity-7431618193519054848-HEFk?utm_source=share&utm_medium=member_desktop&rcm=ACoAACAnurUBZqUbINu-GqTjt27dYq0DfEGurRM",
+    linkText: "Check the linkedin post"
+  }
 ];
 
