@@ -32,7 +32,7 @@ export const newsItems: NewsItem[] = [
     title: "Launch webinar hosted by the ODI: CoCoDa Project Launch",
     link: "https://www.youtube.com/watch?v=3fmuE-JXJEE",
     linkText: "Watch the webinar"
-  }
+  },
     {
     id: 5,
     month: "February 2026",
