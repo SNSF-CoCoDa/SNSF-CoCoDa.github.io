@@ -36,7 +36,7 @@ export const newsItems: NewsItem[] = [
     {
     id: 5,
     month: "February 2026",
-    title: "CoCoDa workshop on DSA hosted by Maastricht university at Brussels hub",
+    title: "CoCoDa workshop on DSA, hosted by Maastricht university at Brussels hub",
     link: "https://www.linkedin.com/posts/maastrichtunibrusselshub_last-week-we-were-happy-to-welcome-the-activity-7431618193519054848-HEFk?utm_source=share&utm_medium=member_desktop&rcm=ACoAACAnurUBZqUbINu-GqTjt27dYq0DfEGurRM",
     linkText: "Check the linkedin post"
   }
