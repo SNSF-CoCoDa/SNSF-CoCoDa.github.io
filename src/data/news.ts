@@ -9,36 +9,30 @@ export interface NewsItem {
 export const newsItems: NewsItem[] = [
   {
     id: 1,
-    month: "September 2025",
-    title: "Workshop with adolescents at the Digital Dreams Festival in Lausanne"
+    month: "May 2026",
+    title: "CoCoDa blog examines AI search summaries and regulatory gaps",
+    link: "https://www.linkedin.com/posts/cocoda-%E2%80%93-studying-systemic-risks-on-online-platforms_maintaining-epistemic-integrity-in-the-era-activity-7465716173616259072-wXyj?utm_source=share&utm_medium=member_desktop&rcm=ACoAACAnurUBZqUbINu-GqTjt27dYq0DfEGurRM",
+    linkText: "Read more on LinkedIn"
   },
   {
     id: 2,
-    month: "September 2025",
-    title: "Attended the Data Access Days in Berlin",
-    link: "https://dsa40collaboratory.eu/data-access-days/",
-    linkText: "Read the highlights"
+    month: "May 2026",
+    title: "CoCoDa panel at CPDP 2026 on child-centred social media wellbeing",
+    link: "https://www.linkedin.com/posts/cocoda-%E2%80%93-studying-systemic-risks-on-online-platforms_cpdp2026-competingvisionssharedfutures-activity-7462431361082028032-KTFR?utm_source=share&utm_medium=member_desktop&rcm=ACoAACAnurUBZqUbINu-GqTjt27dYq0DfEGurRM",
+    linkText: "Read more on LinkedIn"
   },
   {
     id: 3,
-    month: "October 2025",
-    title: "Submitted to EU's Consultation on its new Digital Fairness Act",
-    link: "https://ec.europa.eu/info/law/better-regulation/have-your-say/initiatives/14622-Digital-Fairness-Act/F33096694_en",
-    linkText: "Read our response"
+    month: "May 2026",
+    title: "New chapter on data access, platform accountability, and data structures",
+    link: "https://www.linkedin.com/posts/cocoda-%E2%80%93-studying-systemic-risks-on-online-platforms_cocoda-studying-systemic-risks-on-online-activity-7460599851022618624-bMks?utm_source=share&utm_medium=member_desktop&rcm=ACoAACAnurUBZqUbINu-GqTjt27dYq0DfEGurRM",
+    linkText: "Read more on LinkedIn"
   },
   {
     id: 4,
-    month: "November 2025",
-    title: "Launch webinar hosted by the ODI: CoCoDa Project Launch",
-    link: "https://www.youtube.com/watch?v=3fmuE-JXJEE",
-    linkText: "Watch the webinar"
-  },
-    {
-    id: 5,
-    month: "February 2026",
-    title: "CoCoDa workshop on DSA, hosted by Maastricht university at Brussels hub",
-    link: "https://www.linkedin.com/posts/maastrichtunibrusselshub_last-week-we-were-happy-to-welcome-the-activity-7431618193519054848-HEFk?utm_source=share&utm_medium=member_desktop&rcm=ACoAACAnurUBZqUbINu-GqTjt27dYq0DfEGurRM",
-    linkText: "Check the linkedin post"
+    month: "Latest updates",
+    title: "For the most up-to-date and detailed project news, visit CoCoDa on LinkedIn",
+    link: "https://www.linkedin.com/company/cocoda-%E2%80%93-studying-systemic-risks-on-online-platforms/posts/?feedView=all",
+    linkText: "Visit our LinkedIn page"
   }
 ];
-
