@@ -80,7 +80,7 @@ export const teamMembers: TeamMember[] = [
     name: "Luka Bekavac",
     role: "PhD Student",
     institution: "University of St. Gallen 🇨🇭",
-    imageUrl: "/team/luka.jpg",
+    imageUrl: "https://bridgingworlds.solidcommunity.net/public/fuso-photo.jpg",
     bio: "PhD Candidate",
     category: "Researcher"
   },
