@@ -62,7 +62,7 @@ export const teamMembers: TeamMember[] = [
     name: "Alice Palmieri",
     role: "PhD Student",
     institution: "University of Lausanne 🇨🇭",
-    imageUrl: "/team/alice.jpg",
+    imageUrl: "https://alicepal.solidcommunity.net/public/picture/alice-fuso.jpg",
     bio: "PhD Candidate",
     category: "Researcher"
   },
