@@ -7,9 +7,23 @@ export interface NewsItem {
 }
 
 export const newsItems: NewsItem[] = [
-   {
+  {
 
     id: 1,
+
+    month: "June 2026",
+
+    title: "CoCoDa team presents on social media bubbles at Zurich symposium",
+
+    link: "https://www.linkedin.com/posts/cocoda-%E2%80%93-studying-systemic-risks-on-online-platforms_zgz-gzzaesrich-soziokultur-activity-7470855933443678208-8VSC?utm_source=share&utm_medium=member_desktop&rcm=ACoAACAnurUBZqUbINu-GqTjt27dYq0DfEGurRM",
+
+    linkText: "Read more on LinkedIn"
+
+  },
+
+  {
+
+    id: 2,
 
     month: "June 2026",
 
@@ -23,27 +37,13 @@ export const newsItems: NewsItem[] = [
 
   {
 
-    id: 2,
+    id: 3,
 
     month: "May 2026",
 
     title: "CoCoDa blog examines AI search summaries and regulatory gaps",
 
     link: "https://www.linkedin.com/posts/cocoda-%E2%80%93-studying-systemic-risks-on-online-platforms_maintaining-epistemic-integrity-in-the-era-activity-7465716173616259072-wXyj?utm_source=share&utm_medium=member_desktop&rcm=ACoAACAnurUBZqUbINu-GqTjt27dYq0DfEGurRM",
-
-    linkText: "Read more on LinkedIn"
-
-  },
-
-  {
-
-    id: 3,
-
-    month: "May 2026",
-
-    title: "CoCoDa panel at CPDP 2026 on child-centred social media wellbeing",
-
-    link: "https://www.linkedin.com/posts/cocoda-%E2%80%93-studying-systemic-risks-on-online-platforms_cpdp2026-competingvisionssharedfutures-activity-7462431361082028032-KTFR?utm_source=share&utm_medium=member_desktop&rcm=ACoAACAnurUBZqUbINu-GqTjt27dYq0DfEGurRM",
 
     linkText: "Read more on LinkedIn"
 
